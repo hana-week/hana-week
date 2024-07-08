@@ -2,8 +2,6 @@
 
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hanju's%20Journey%20&fontAlign=40&fontAlignY=40&color=gradient&align="center")
 
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhana-week&edge_flat=false&title=hits)
-
 
 <h1 align="center"> 
    🙇 

@@ -4,10 +4,13 @@
 
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhana-week&edge_flat=false&title=hits)
 
+
 <h1 align="center"> 
    🙇 
 <br>
    Hello, I am growing as a Data Scientist, Hanju Kim!
+<br>
+<br>
 
 <!-- Body -->
 
@@ -63,4 +66,13 @@
   <br> SALES SUPPORTER at Gangdong Sales Center
   <br> MAR. 2022 ‑ DEC. 2022
  <br>
+ <br>
+
+<h1 align="center"> 
+🌟 Certificate 🌟 </h3>
+  
+ ### Advanced Data Analytics Semi-Professional
+ ### Certified Fund Investment Advisor
+ ### Associate Financial Planner Korea™
+ ### Computer Specialist in Spreadsheet & Database Lev.1
  <br>

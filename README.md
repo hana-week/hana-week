@@ -4,7 +4,7 @@
 
 
 <h1 align="center"> 
-   🙇 
+   🙇 🙇‍♀️
 <br>
    Hello, I am growing as a Data Scientist, Hanju Kim!
 <br>
@@ -36,7 +36,7 @@
  <br>
  
 <h1 align="center"> 
-📚 Education 📚 </h3>
+📖 Education 📖 </h3>
   
 
  ### Seoul Women's University [SWU](http://www.swu.ac.kr/index.do)
@@ -46,7 +46,7 @@
  <br>
 
 <h1 align="center"> 
-👩‍💻 Work Experience 👩‍💻
+💸 Work Experience 💸
 </h3>
 
 ### **[Toss Payments](https://www.tosspayments.com)**

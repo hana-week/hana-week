@@ -10,11 +10,10 @@
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
-![Visual Studio Code](https://img.shields.io/badge/Visualstudio code-000000.svg?&style=for-the-badge) 
+![Visual Studio Code](https://img.shields.io/badge/Visualstudio code-000000.svg?&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 
 **🛠️ Infra and Tools**
-![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)

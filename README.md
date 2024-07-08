@@ -10,7 +10,7 @@
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
-![Visual Studio Code](https://img.shields.io/badge/Visualstudio code-000000.svg?&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/Visualstudiocode-000000.svg?&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 
 **🛠️ Infra and Tools**

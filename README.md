@@ -14,6 +14,6 @@
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 
 ### 🚌 Top Langs & Algorithm
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hana-week&layout=compact)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=______)](https://solved.ac/profile/______)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hana-week)](https://solved.ac/profile/hana-week)

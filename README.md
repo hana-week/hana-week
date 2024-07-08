@@ -61,7 +61,7 @@
   
 ### **[Kookmin Bank](https://www.kbstar.com/)**
   Seoul, S.Korea
-  <br> Teller at Seolleung Station Comprehensive Financial Center
+  <br> TELLER at Seolleung Station Comprehensive Financial Center
   <br> DEC. 2022 ‑ JAN. 2024
 
 ### **[Woori Card](https://www.wooricard.com/)**

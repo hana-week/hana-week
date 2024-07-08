@@ -18,4 +18,4 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hana-week)](https://solved.ac/profile/hana-week)
 
-![고양이입니다](https://i.imgur.com/QFI9Uh4.png)
+![고양이입니다](https://i.imgur.com/wZSEiwq.png)

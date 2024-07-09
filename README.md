@@ -30,7 +30,7 @@
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hana-week&layout=compact)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hana_week)](https://solved.ac/profile/hana-week)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hana-week)](https://solved.ac/profile/hana_week)
 
  <br>
  <br>

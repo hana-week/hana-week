@@ -4,8 +4,7 @@
 
 
 <h1 align="center"> 
-   🙇 🙇‍♀️
-<br>
+
    Hanju Kim, Traveller, Ink my footsteps!
 <br>
 <br>

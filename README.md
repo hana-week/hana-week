@@ -6,7 +6,7 @@
 <h1 align="center"> 
    🙇 🙇‍♀️
 <br>
-   Hanju Kim, Growing as a Data Scientist!
+   Hanju Kim, Traveller, Ink my footsteps!
 <br>
 <br>
 

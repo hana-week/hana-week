@@ -5,6 +5,8 @@
 
 <h1 align="center"> 
 
+   🏃‍♀️
+   
    Hanju Kim, Traveller, Ink my footsteps!
 <br>
 <br>

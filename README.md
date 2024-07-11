@@ -59,7 +59,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 ### 🔗 Algorithms
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hana_week)](https://solved.ac/profile/hana_week) 　　　 ![hana-week's GitHub stats](https://github-readme-stats.vercel.app/api?username=hana-week&show_icons=true&theme=calm) ⭐
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hana_week)](https://solved.ac/profile/hana_week) 　　　 ![hana-week's GitHub stats](https://github-readme-stats.vercel.app/api?username=hana-week&show_icons=true&theme=calm) 🩷
 
 
  <br>

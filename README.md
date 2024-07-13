@@ -7,7 +7,7 @@
 
    🏃‍♀️
    
-   Traveller: Ink my footsteps!
+   Ink my footsteps!
 <br>
 <br>
 

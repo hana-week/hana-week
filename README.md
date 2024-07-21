@@ -68,7 +68,7 @@
 <!--### 🔗 Algorithms-->
 <!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hana_week)](https://solved.ac/profile/hana_week)　-->
 
-![hana-week's GitHub stats](https://github-readme-stats.vercel.app/api?username=hana-week&show_icons=true&theme=calm&align=center)<!--***🩷***-->
+![hana-week's GitHub stats](https://github-readme-stats.vercel.app/api?username=hana-week&show_icons=true&hide=contribs&theme=calm&align=center)<!--***🩷***-->
 
 
 
